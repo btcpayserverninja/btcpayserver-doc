@@ -1,13 +1,13 @@
 # Try it out
 
-This section goes through the process of creating an account and store on our public BTCPay server. (For evaluation purpose)
+This section goes through the process of creating an account and store on our public BTCPay server. \(For evaluation purpose\)
 
 * Our [mainnet site](https://mainnet.demo.btcpayserver.org/)
 * Our [testnet site](https://testnet.demo.btcpayserver.org)
 
 You can take a look at our video:
 
-[![BTCPay - Introduction](http://img.youtube.com/vi/xh3Eac66qc4/mqdefault.jpg)](http://www.youtube.com/watch?v=xh3Eac66qc4 "BTCPay - Introduction")
+[![BTCPay - Introduction](http://img.youtube.com/vi/xh3Eac66qc4/mqdefault.jpg)](http://www.youtube.com/watch?v=xh3Eac66qc4)
 
 ## Create your first invoice
 
@@ -28,4 +28,5 @@ Let's configure the store so it uses your electrum wallet:
 1. Go to the setting page of your store in BTCPay
 2. In the Information Menu, paste the `ExtPubKey` with the string you just copied from Electrum, validate.
 
-Then you can create an invoice, either by the process documented on the [Custom integration](CustomIntegration.md) page, through plugins or through the website on the `Invoice` menu.
+Then you can create an invoice, either by the process documented on the [Custom integration](../integrations/customintegration.md) page, through plugins or through the website on the `Invoice` menu.
+

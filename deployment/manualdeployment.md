@@ -8,4 +8,5 @@ The process is basically the following:
 
 Take a look at our video to learn more:
 
-[![BTCPay - Setup](http://img.youtube.com/vi/Xo_vApXTZBU/mqdefault.jpg)](http://www.youtube.com/watch?v=Xo_vApXTZBU "BTCPay - Setup")
+[![BTCPay - Setup](http://img.youtube.com/vi/Xo_vApXTZBU/mqdefault.jpg)](http://www.youtube.com/watch?v=Xo_vApXTZBU)
+
